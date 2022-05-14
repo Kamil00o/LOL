@@ -28,7 +28,7 @@ public class Tablice
         System.out.println(rev);
 
         /////////////////////////////////////////////////////////////////////
-        //                  testowanie klas i obiektow                     //
+        //                  testowanie klas i obiektow                     ///////////////////////////////
         /////////////////////////////////////////////////////////////////////
         System.out.println("----------------------------------OOP------------------------------------\n\n\n\n");
         Klocek zamek = new Budowla("Beton", 300, 3000000, "Prostokątny");
